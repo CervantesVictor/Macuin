@@ -1,0 +1,56 @@
+#card1{
+  position: absolute;
+  left:15vw;
+  right:100vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  top: 150px;
+}
+
+#card2{
+  position: absolute;
+  left:40vw;
+  right:105vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  top: 150px;
+}
+
+#card3{
+  position: absolute;
+  left:65vw;
+  right:110vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  top: 150px;
+}
+
+body{
+  background-image: url(../img/azul1.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: rgb(255, 255, 255);
+}
+
+#btn{
+  background-color: #33D69C;
+}
+
+#nabvar{
+  background-color: #FFF8B7;
+}
+
+.cuadro{
+  background-color: #bad8e0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 95px;
+  margin-right: 50px;
+  padding: 6.3cm;
+  border-radius: 2.5%;
+}

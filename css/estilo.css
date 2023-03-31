@@ -1,0 +1,89 @@
+body{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+#principal{
+    border: 2px solid #DAC406;
+    margin: center;
+}
+
+.content{
+    max-width: 1100px;
+    margin-top: -120px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4.5cm;
+}
+
+.contact-wrapper{
+    background: #BAD8E0;
+    padding: .2cm;
+    border-radius: 5%;
+}
+
+.contact-form{
+    padding: .8cm;
+    margin-top: 0px;
+    border-radius: 10%;
+}
+
+.contact-form form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.contact-form form .block{
+    grid-column: 1/2;
+    margin-left: 85%;
+}
+
+.contact-form form input{
+    width: 90%;
+    padding: .09cm;
+    border: none;
+    background: white;
+    outline: 0;
+    color: #000;
+    border-bottom: 2px solid #0c70e2;
+}
+
+footer{
+    background-color:gainsboro;
+    width: auto;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+#datos{
+    margin-left: 100px;
+    width: 290px;
+    height: 100px;
+    border: 0px solid;
+    float: left;
+    padding: 10px;
+    text-align: left;
+    font-size: 12px;
+}
+
+#redes{
+    width: 290px;
+    height: 100px;
+    border: 0px solid;
+    float: right;
+    padding: 10px;
+    text-align: left;
+    font-size: 12px;
+}
+
+#btm{
+    background-color: #33D69C;
+    font-weight: bold;
+}
+
+#nabvar{
+    background-color: #FFF8B7;
+}
